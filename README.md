@@ -7,3 +7,4 @@ Dessa vez temos um formulário de login incompleto e a sua missão é finalizar 
 Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
 ## Resolução do desafio
+image.png
