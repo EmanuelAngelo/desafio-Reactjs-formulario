@@ -46,10 +46,9 @@ export default function LoginForm() {
       .catch((error) => {
         console.log(error);
         setError(error);
-      }).finally(()=>{
-        setIsRequesting(false);
-      });
-  }
+      })
+      .finally(()=> setIsRequesting(false));
+  };
 
   return (
     <div className='wrapper'>
